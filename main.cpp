@@ -1,4 +1,3 @@
-// Hard-Code | Mahmoud Sami //           postfix          //
 #include <iostream>
 #include <stack>
 #include <string>
